@@ -1,0 +1,12 @@
+C:\Users\Rohit Dasari\source\repos\Enums with byte\bin\Debug\netcoreapp3.1\Enums with byte.exe
+C:\Users\Rohit Dasari\source\repos\Enums with byte\bin\Debug\netcoreapp3.1\Enums with byte.deps.json
+C:\Users\Rohit Dasari\source\repos\Enums with byte\bin\Debug\netcoreapp3.1\Enums with byte.runtimeconfig.json
+C:\Users\Rohit Dasari\source\repos\Enums with byte\bin\Debug\netcoreapp3.1\Enums with byte.runtimeconfig.dev.json
+C:\Users\Rohit Dasari\source\repos\Enums with byte\bin\Debug\netcoreapp3.1\Enums with byte.dll
+C:\Users\Rohit Dasari\source\repos\Enums with byte\bin\Debug\netcoreapp3.1\Enums with byte.pdb
+C:\Users\Rohit Dasari\source\repos\Enums with byte\obj\Debug\netcoreapp3.1\Enums with byte.AssemblyInfoInputs.cache
+C:\Users\Rohit Dasari\source\repos\Enums with byte\obj\Debug\netcoreapp3.1\Enums with byte.AssemblyInfo.cs
+C:\Users\Rohit Dasari\source\repos\Enums with byte\obj\Debug\netcoreapp3.1\Enums with byte.csproj.CoreCompileInputs.cache
+C:\Users\Rohit Dasari\source\repos\Enums with byte\obj\Debug\netcoreapp3.1\Enums with byte.dll
+C:\Users\Rohit Dasari\source\repos\Enums with byte\obj\Debug\netcoreapp3.1\Enums with byte.pdb
+C:\Users\Rohit Dasari\source\repos\Enums with byte\obj\Debug\netcoreapp3.1\Enums with byte.genruntimeconfig.cache
