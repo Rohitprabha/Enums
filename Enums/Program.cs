@@ -17,17 +17,17 @@ namespace Enums
 
         static void Main(string[] args)
         {
-            //Days d = (Days)5;
-            //Console.WriteLine(d);
+            Days d = (Days)5;
+            Console.WriteLine(d);
 
-            //Days d = Days.Thrusday;
-            //Console.WriteLine((int)d);                                //enum to int conversion
+            d = Days.Thrusday;
+            Console.WriteLine((int)d);                                //enum to int conversion
 
-            //foreach (int i in Enum.GetValues(typeof(Days)))
-            //    //Console.WriteLine(i);                               //prints values
-            //    Console.WriteLine(i + "  "+ (Days)i);                 //prints values and names
-            //foreach (string s in Enum.GetNames(typeof(Days)))
-            //    Console.WriteLine(s);                                 //prints names
+            foreach (int i in Enum.GetValues(typeof(Days)))
+               //Console.WriteLine(i);                               //prints values
+               Console.WriteLine(i + "  "+ (Days)i);                 //prints values and names
+            foreach (string s in Enum.GetNames(typeof(Days)))
+               Console.WriteLine(s);                                 //prints names
 
 
             Console.WriteLine(MeetingDate);
